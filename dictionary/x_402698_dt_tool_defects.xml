@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Defects" max_length="40" name="x_402698_dt_tool_defects" type="collection">
+        <element label="Applicationname" max_length="40" name="applicationname" type="string"/>
+        <element label="Assigned To" max_length="40" name="assigned_to" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Pending With" max_length="40" name="pending_with" type="string"/>
+        <element label="RASENumber" max_length="40" name="rasenumber" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+    </element>
+</database>
